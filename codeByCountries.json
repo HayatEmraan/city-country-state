@@ -39,18 +39,6 @@
     "cioc": "MGL"
   },
   {
-    "countryName": "Pitcairn Islands",
-    "dialCode": "+64",
-    "region": "Oceania",
-    "flags": {
-      "png": "https://flagcdn.com/w320/pn.png",
-      "svg": "https://flagcdn.com/pn.svg"
-    },
-    "cca2": "PN",
-    "ccn3": "612",
-    "cca3": "PCN"
-  },
-  {
     "countryName": "Zambia",
     "dialCode": "+260",
     "region": "Africa",
@@ -142,7 +130,7 @@
     "cioc": "SOM"
   },
   {
-    "countryName": "Saint Lucia",
+    "countryName": "St. Lucia",
     "dialCode": "+1",
     "region": "Americas",
     "flags": {
@@ -318,19 +306,6 @@
     "cca2": "NC",
     "ccn3": "540",
     "cca3": "NCL"
-  },
-  {
-    "countryName": "DR Congo",
-    "dialCode": "+243",
-    "region": "Africa",
-    "flags": {
-      "png": "https://flagcdn.com/w320/cd.png",
-      "svg": "https://flagcdn.com/cd.svg"
-    },
-    "cca2": "CD",
-    "ccn3": "180",
-    "cca3": "COD",
-    "cioc": "COD"
   },
   {
     "countryName": "Greece",
@@ -746,7 +721,7 @@
     "cioc": "KOS"
   },
   {
-    "countryName": "Saint Pierre and Miquelon",
+    "countryName": "St. Pierre and Miquelon",
     "dialCode": "+508",
     "region": "Americas",
     "flags": {
@@ -888,7 +863,7 @@
     "cioc": "ANG"
   },
   {
-    "countryName": "Saint Vincent and the Grenadines",
+    "countryName": "St. Vincent and the Grenadines",
     "dialCode": "+1",
     "region": "Americas",
     "flags": {
@@ -978,30 +953,6 @@
     "cioc": "EST"
   },
   {
-    "countryName": "Cocos (Keeling) Islands",
-    "dialCode": "+61",
-    "region": "Oceania",
-    "flags": {
-      "png": "https://flagcdn.com/w320/cc.png",
-      "svg": "https://flagcdn.com/cc.svg"
-    },
-    "cca2": "CC",
-    "ccn3": "166",
-    "cca3": "CCK"
-  },
-  {
-    "countryName": "Jersey",
-    "dialCode": "+44",
-    "region": "Europe",
-    "flags": {
-      "png": "https://flagcdn.com/w320/je.png",
-      "svg": "https://flagcdn.com/je.svg"
-    },
-    "cca2": "JE",
-    "ccn3": "832",
-    "cca3": "JEY"
-  },
-  {
     "countryName": "Vatican City",
     "dialCode": "+3906698",
     "region": "Europe",
@@ -1012,18 +963,6 @@
     "cca2": "VA",
     "ccn3": "336",
     "cca3": "VAT"
-  },
-  {
-    "countryName": "Bouvet Island",
-    "dialCode": "+47",
-    "region": "Antarctic",
-    "flags": {
-      "png": "https://flagcdn.com/w320/bv.png",
-      "svg": "https://flagcdn.com/bv.svg"
-    },
-    "cca2": "BV",
-    "ccn3": "074",
-    "cca3": "BVT"
   },
   {
     "countryName": "Zimbabwe",
@@ -1037,18 +976,6 @@
     "ccn3": "716",
     "cca3": "ZWE",
     "cioc": "ZIM"
-  },
-  {
-    "countryName": "Åland Islands",
-    "dialCode": "+35818",
-    "region": "Europe",
-    "flags": {
-      "png": "https://flagcdn.com/w320/ax.png",
-      "svg": "https://flagcdn.com/ax.svg"
-    },
-    "cca2": "AX",
-    "ccn3": "248",
-    "cca3": "ALA"
   },
   {
     "countryName": "Lithuania",
@@ -1168,19 +1095,6 @@
     "cioc": "ITA"
   },
   {
-    "countryName": "São Tomé and Príncipe",
-    "dialCode": "+239",
-    "region": "Africa",
-    "flags": {
-      "png": "https://flagcdn.com/w320/st.png",
-      "svg": "https://flagcdn.com/st.svg"
-    },
-    "cca2": "ST",
-    "ccn3": "678",
-    "cca3": "STP",
-    "cioc": "STP"
-  },
-  {
     "countryName": "Norfolk Island",
     "dialCode": "+672",
     "region": "Oceania",
@@ -1256,18 +1170,6 @@
     "ccn3": "705",
     "cca3": "SVN",
     "cioc": "SLO"
-  },
-  {
-    "countryName": "Svalbard and Jan Mayen",
-    "dialCode": "+4779",
-    "region": "Europe",
-    "flags": {
-      "png": "https://flagcdn.com/w320/sj.png",
-      "svg": "https://flagcdn.com/sj.svg"
-    },
-    "cca2": "SJ",
-    "ccn3": "744",
-    "cca3": "SJM"
   },
   {
     "countryName": "Guadeloupe",
@@ -1784,18 +1686,6 @@
     "cioc": "BAN"
   },
   {
-    "countryName": "South Georgia",
-    "dialCode": "+500",
-    "region": "Antarctic",
-    "flags": {
-      "png": "https://flagcdn.com/w320/gs.png",
-      "svg": "https://flagcdn.com/gs.svg"
-    },
-    "cca2": "GS",
-    "ccn3": "239",
-    "cca3": "SGS"
-  },
-  {
     "countryName": "Uganda",
     "dialCode": "+256",
     "region": "Africa",
@@ -1833,30 +1723,6 @@
     "ccn3": "492",
     "cca3": "MCO",
     "cioc": "MON"
-  },
-  {
-    "countryName": "Western Sahara",
-    "dialCode": "+2125288",
-    "region": "Africa",
-    "flags": {
-      "png": "https://flagcdn.com/w320/eh.png",
-      "svg": "https://flagcdn.com/eh.svg"
-    },
-    "cca2": "EH",
-    "ccn3": "732",
-    "cca3": "ESH"
-  },
-  {
-    "countryName": "United States Minor Outlying Islands",
-    "dialCode": "+268",
-    "region": "Americas",
-    "flags": {
-      "png": "https://flagcdn.com/w320/um.png",
-      "svg": "https://flagcdn.com/um.svg"
-    },
-    "cca2": "UM",
-    "ccn3": "581",
-    "cca3": "UMI"
   },
   {
     "countryName": "Kyrgyzstan",
@@ -2000,18 +1866,6 @@
     "ccn3": "364",
     "cca3": "IRN",
     "cioc": "IRI"
-  },
-  {
-    "countryName": "Guernsey",
-    "dialCode": "+44",
-    "region": "Europe",
-    "flags": {
-      "png": "https://flagcdn.com/w320/gg.png",
-      "svg": "https://flagcdn.com/gg.svg"
-    },
-    "cca2": "GG",
-    "ccn3": "831",
-    "cca3": "GGY"
   },
   {
     "countryName": "Niue",
@@ -2193,7 +2047,7 @@
     "cca3": "SXM"
   },
   {
-    "countryName": "Saint Kitts and Nevis",
+    "countryName": "St. Kitts and Nevis",
     "dialCode": "+1",
     "region": "Americas",
     "flags": {
@@ -2219,7 +2073,7 @@
     "cioc": "SVK"
   },
   {
-    "countryName": "Saint Helena, Ascension and Tristan da Cunha",
+    "countryName": "St. Helena",
     "dialCode": "+290",
     "region": "Africa",
     "flags": {
@@ -2255,18 +2109,6 @@
     "ccn3": "826",
     "cca3": "GBR",
     "cioc": "GBR"
-  },
-  {
-    "countryName": "Mayotte",
-    "dialCode": "+262",
-    "region": "Africa",
-    "flags": {
-      "png": "https://flagcdn.com/w320/yt.png",
-      "svg": "https://flagcdn.com/yt.svg"
-    },
-    "cca2": "YT",
-    "ccn3": "175",
-    "cca3": "MYT"
   },
   {
     "countryName": "Georgia",
@@ -2308,7 +2150,7 @@
     "cioc": "UZB"
   },
   {
-    "countryName": "Saint Barthélemy",
+    "countryName": "St. Barthélemy",
     "dialCode": "+590",
     "region": "Americas",
     "flags": {
@@ -2422,7 +2264,7 @@
     "cca3": "FRO"
   },
   {
-    "countryName": "Republic of the Congo",
+    "countryName": "Congo - Brazzaville",
     "dialCode": "+242",
     "region": "Africa",
     "flags": {
@@ -2577,7 +2419,7 @@
     "cioc": "MEX"
   },
   {
-    "countryName": "Saint Martin",
+    "countryName": "St. Martin",
     "dialCode": "+590",
     "region": "Americas",
     "flags": {
@@ -2718,18 +2560,6 @@
     "cioc": "SWE"
   },
   {
-    "countryName": "French Southern and Antarctic Lands",
-    "dialCode": "+262",
-    "region": "Antarctic",
-    "flags": {
-      "png": "https://flagcdn.com/w320/tf.png",
-      "svg": "https://flagcdn.com/tf.svg"
-    },
-    "cca2": "TF",
-    "ccn3": "260",
-    "cca3": "ATF"
-  },
-  {
     "countryName": "Guinea",
     "dialCode": "+224",
     "region": "Africa",
@@ -2782,18 +2612,6 @@
     "cioc": "IVB"
   },
   {
-    "countryName": "Christmas Island",
-    "dialCode": "+61",
-    "region": "Oceania",
-    "flags": {
-      "png": "https://flagcdn.com/w320/cx.png",
-      "svg": "https://flagcdn.com/cx.svg"
-    },
-    "cca2": "CX",
-    "ccn3": "162",
-    "cca3": "CXR"
-  },
-  {
     "countryName": "Bulgaria",
     "dialCode": "+359",
     "region": "Europe",
@@ -2818,18 +2636,6 @@
     "ccn3": "558",
     "cca3": "NIC",
     "cioc": "NCA"
-  },
-  {
-    "countryName": "Isle of Man",
-    "dialCode": "+44",
-    "region": "Europe",
-    "flags": {
-      "png": "https://flagcdn.com/w320/im.png",
-      "svg": "https://flagcdn.com/im.svg"
-    },
-    "cca2": "IM",
-    "ccn3": "833",
-    "cca3": "IMN"
   },
   {
     "countryName": "Romania",
@@ -2882,19 +2688,6 @@
     "ccn3": "604",
     "cca3": "PER",
     "cioc": "PER"
-  },
-  {
-    "countryName": "Ivory Coast",
-    "dialCode": "+225",
-    "region": "Africa",
-    "flags": {
-      "png": "https://flagcdn.com/w320/ci.png",
-      "svg": "https://flagcdn.com/ci.svg"
-    },
-    "cca2": "CI",
-    "ccn3": "384",
-    "cca3": "CIV",
-    "cioc": "CIV"
   },
   {
     "countryName": "Haiti",
@@ -3117,7 +2910,7 @@
     "cioc": "BAH"
   },
   {
-    "countryName": "Myanmar",
+    "countryName": "Myanmar (Burma)",
     "dialCode": "+95",
     "region": "Asia",
     "flags": {
@@ -3168,7 +2961,7 @@
     "cca3": "GIB"
   },
   {
-    "countryName": "United States Virgin Islands",
+    "countryName": "U.S Virgin Islands",
     "dialCode": "+1",
     "region": "Americas",
     "flags": {
